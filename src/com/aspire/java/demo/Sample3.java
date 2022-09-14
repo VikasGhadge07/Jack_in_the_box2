@@ -6,6 +6,10 @@ public class Sample3
 	{
 		System.out.println("Hi..........");
 		
+		int p=50;
+		int q=30;
+		int sub=p-q;
+		System.out.println(sub);
 		
 	}
 
